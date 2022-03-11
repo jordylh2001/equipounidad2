@@ -1,7 +1,7 @@
 import math, re
 from collections import defaultdict
 from fractions import Fraction
-from ExtractWords import getWords, wordFreq
+from Info import getWords, wordFreq
 
 
 class Classifier(object):
